@@ -18,7 +18,7 @@ Yeni bir müşteri kazanmak, mevcut müşteriyi elde tutmaktan **5-7 kat daha pa
 💼 İş kararlarına dönüştürülebilir stratejik içgörüler <br>
 # 📌 Proje Amacı
 Telekom sektöründe müşteri kaybı, şirketlerin gelirini doğrudan etkileyen en önemli sorunlardan biridir. Yeni müşteri kazanmanın maliyeti, mevcut müşteriyi elde tutmaktan çok daha yüksektir. <br>
-Bu proje ile amaçlanan: <br>
+### Bu proje ile amaçlanan: <br>
 Müşteri kaybı riskini önceden tahmin etmek <br>
 Riskli müşterileri erken tespit etmek <br>
 Kişiselleştirilmiş kampanyalar geliştirmek <br>
