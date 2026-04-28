@@ -95,8 +95,8 @@ Recall: Gerçek churn müşterilerini yakalama oranı<br>
 F1-Score: Precision ve Recall'un dengeli ortalaması<br>
 ROC-AUC: Modelin ayırt etme başarısı<br>
 Average Precision (AP): Dengesiz veri setlerinde model performansını daha doğru ölçer<br>
-# 🎯 İş Değeri ve Stratejik Katkılar<br>
-Bu proje sayesinde şirketler:<br>
+# 🎯 İş Değeri ve Stratejik Katkılar
+### Bu proje sayesinde şirketler:
 Churn riski yüksek müşterileri önceden belirleyebilir<br>
 Kişiye özel kampanyalar oluşturabilir<br>
 Müşteri kaybını azaltabilir<br>
