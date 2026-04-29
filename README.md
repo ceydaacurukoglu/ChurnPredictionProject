@@ -97,11 +97,11 @@ Azınlık sınıfı (~%27) yapay örneklerle dengelendi. SMOTE **yalnızca eğit
 📉Average Precision (AP): Dengesiz veri setlerinde model performansını daha doğru ölçer<br>
 # 🎯 İş Değeri ve Stratejik Katkılar
 ### Bu proje sayesinde şirketler:
-Churn riski yüksek müşterileri önceden belirleyebilir.<br>
-Kişiye özel kampanyalar oluşturabilir.<br>
-Müşteri kaybını azaltabilir.<br>
-Pazarlama bütçesini daha verimli kullanabilir.<br>
-Müşteri yaşam boyu değerini artırabilir.<br>
+- Churn riski yüksek müşterileri önceden belirleyebilir.<br>
+- Kişiye özel kampanyalar oluşturabilir.<br>
+- Müşteri kaybını azaltabilir.<br>
+- Pazarlama bütçesini daha verimli kullanabilir.<br>
+- Müşteri yaşam boyu değerini artırabilir.<br>
 # 📌 Önerilen Aksiyonlar<br>
 🎁 Riskli müşterilere özel teklifler sunulması<br>
 📲 Aktif olmayan müşterilere yeniden etkileşim kampanyaları<br>
